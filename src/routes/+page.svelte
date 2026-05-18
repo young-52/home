@@ -74,7 +74,7 @@
 			<Button
 				variant="ghost"
 				size="icon"
-				href="https://raw.githubusercontent.com/young-52/curriculum-vitae/main/cv-en.pdf"
+				href="/cv-en.pdf"
 				target="_blank"
 				rel="noopener noreferrer"
 				title="Curriculum Vitae"
