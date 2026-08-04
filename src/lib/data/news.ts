@@ -4,13 +4,13 @@ export type NewsItem = {
 };
 
 export const news: NewsItem[] = [
+	{
+		date: '13 Jul 2026',
+		headline: '✏️ Started my internship at KIXLAB!'
+	},
 	{ date: '12 May 2026', headline: '🔧 Renew my website!' },
 	{
 		date: '16 Apr 2026',
-		headline: '🕹️ Released Tour of Gradio, Gradio docs for non-CS students!'
-	},
-	{
-		date: '17 Oct 2025',
-		headline: '✏️ Started my internship at SNU NLP Laboratory!'
+		headline: '🕹️ Released Tour of Gradio, a Gradio tutorial for non-CS students!'
 	}
 ];

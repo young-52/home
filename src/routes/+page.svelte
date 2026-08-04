@@ -98,9 +98,10 @@
 		<p>
 			Now, I am working as a research intern in
 			<a
-				href="https://knlp.snu.ac.kr"
-				class="text-primary underline-offset-4 transition-all hover:underline">SNUNLP Lab</a
-			>. I recently focus on interpretability of LLMs for code generation.
+				href="https://kixlab.org"
+				class="text-primary underline-offset-4 transition-all hover:underline"
+				>KAIST Interaction Lab (KIXLAB)</a
+			>. I recently focus on how to facilitate deliberation on social issues via LLM agents.
 		</p>
 	</div>
 </section>
